@@ -1,4 +1,4 @@
-# 🏦 ATM System – Java + MySQL
+# 🏦 ATM System – Java Swing + MySQL
 
 ## 📌 Description
 
@@ -13,6 +13,7 @@ Features include:
 
 ## 🛠 Technologies Used
 
+*java Swing
 * Java 21
 * MySQL
 * JDBC
